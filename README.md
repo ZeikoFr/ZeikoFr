@@ -1,6 +1,6 @@
-### Gwendal
+### Hello there, I'm Gwendal
 
-I keep other people's Kubernetes clusters alive. Several clients, several generations of legacy, one rule: nothing changes in prod unless a plan says so.
+I keep other people's Kubernetes clusters alive.
 
 ```yaml
 apiVersion: humans.k8s.local/v1
@@ -8,7 +8,7 @@ kind: CloudArchitect
 metadata:
   name: gwendal
   labels:
-    region: europe-west9   # France, approximately
+    region: europe-west9 # France, approximately
 spec:
   replicas: 1
   role: cloud architect @ MSP
