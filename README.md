@@ -22,6 +22,8 @@ status:
       reason: PlanReviewed
 ```
 
+<img src="https://skillicons.dev/icons?i=kubernetes,terraform,gcp,docker,nix,argocd,githubactions,bash,linux" alt="Stack" />
+
 **Things people hand me**
 
 - Infra nobody dares to touch anymore. I bring it back under code, without the outage.
@@ -34,9 +36,3 @@ status:
 
 - Improving AI setup to keep track of what's happening in the space
 - Reviewing new packages on [nixpkgs](https://github.com/NixOS/nixpkgs)
-
-**Stack**
-
-<img src="https://skillicons.dev/icons?i=kubernetes,terraform,gcp,docker,nix,argocd,githubactions,bash,linux" alt="Stack" />
-
-<a href="https://github.com/NixOS/nixpkgs/pulls?q=is%3Apr+is%3Aclosed+author%3AZeikoFr"><img src="https://img.shields.io/github/issues-search?query=repo%3ANixOS%2Fnixpkgs%20is%3Apr%20is%3Aclosed%20author%3AZeikoFr&label=nixpkgs%20PRs%20closed&logo=nixos&color=5277C3" alt="nixpkgs PRs closed" /></a>
