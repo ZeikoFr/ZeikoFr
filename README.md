@@ -39,18 +39,4 @@ status:
 
 <img src="https://skillicons.dev/icons?i=kubernetes,terraform,gcp,docker,nix,argocd,githubactions,bash,linux" alt="Stack" />
 
-**Activity**
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/profile-night-view.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="profile-3d-contrib/profile-green-animate.svg" />
-  <img alt="3D contribution calendar" src="profile-3d-contrib/profile-green-animate.svg" />
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ZeikoFr/ZeikoFr/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ZeikoFr/ZeikoFr/output/github-snake.svg" />
-  <img alt="Contribution snake" src="https://raw.githubusercontent.com/ZeikoFr/ZeikoFr/output/github-snake.svg" />
-</picture>
-
-<img src="github-metrics.svg" alt="Metrics" />
+<a href="https://github.com/NixOS/nixpkgs/pulls?q=is%3Apr+is%3Aclosed+author%3AZeikoFr"><img src="https://img.shields.io/github/issues-search?query=repo%3ANixOS%2Fnixpkgs%20is%3Apr%20is%3Aclosed%20author%3AZeikoFr&label=nixpkgs%20PRs%20closed&logo=nixos&color=5277C3" alt="nixpkgs PRs closed" /></a>
