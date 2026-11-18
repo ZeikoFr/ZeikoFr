@@ -12,7 +12,7 @@ metadata:
 spec:
   replicas: 1
   role: cloud architect @ MSP
-  focus: [gke, ovh, scw, terraform/tofu, kubernetes, arogcd, ect]
+  focus: [gke, ovh, scw, terraform/tofu, kubernetes, argocd, etc]
   runtime: nix
   languages: [fr, en]
 status:
@@ -28,20 +28,29 @@ status:
 - A `terraform plan` full of changes nobody can explain. I make it say `No changes.`
 - Over-provisioned infra and finops nightmares.
 - The kube upgrade everyone keeps postponing.
-- Dependency hell's
+- Dependency hell.
 
 **Lately**
 
 - Improving AI setup to keep track of what's happening in the space
 - Reviewing new packages on [nixpkgs](https://github.com/NixOS/nixpkgs)
 
+**Stack**
+
+<img src="https://skillicons.dev/icons?i=kubernetes,terraform,gcp,docker,nix,argocd,githubactions,bash,linux" alt="Stack" />
+
 **Activity**
 
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ZeikoFr&show_icons=true&hide_rank=true&hide_border=true&theme=transparent" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZeikoFr&layout=compact&hide_border=true&theme=transparent" alt="Top languages" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/profile-night-view.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="profile-3d-contrib/profile-green-animate.svg" />
+  <img alt="3D contribution calendar" src="profile-3d-contrib/profile-green-animate.svg" />
+</picture>
 
-<img src="https://streak-stats.demolab.com?user=ZeikoFr&hide_border=true" alt="Contribution streak" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ZeikoFr/ZeikoFr/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ZeikoFr/ZeikoFr/output/github-snake.svg" />
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/ZeikoFr/ZeikoFr/output/github-snake.svg" />
+</picture>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ZeikoFr&hide_border=true" alt="Contribution graph" />
+<img src="github-metrics.svg" alt="Metrics" />
