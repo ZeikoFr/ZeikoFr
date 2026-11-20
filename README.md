@@ -36,3 +36,9 @@ status:
 
 - Improving AI setup to keep track of what's happening in the space
 - Reviewing new packages on [nixpkgs](https://github.com/NixOS/nixpkgs)
+
+**Packages I maintain on nixpkgs**
+
+<!-- nixpkgs:start -->
+- [`radar`](https://search.nixos.org/packages?channel=unstable&show=radar&query=radar) 1.20.2: Local-first Kubernetes visibility: topology, event timeline, and service traffic
+<!-- nixpkgs:end -->
